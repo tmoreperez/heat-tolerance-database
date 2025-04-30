@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs  # For GitHub Pages
+
+website:
+  title: "Heat Tolerance Database"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Data
+        href: data.qmd
+      - text: Citation
+        href: citation.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

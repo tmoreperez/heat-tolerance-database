@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Dataset",
+    "section": "",
+    "text": "📊 Dataset\nThe full dataset is available for download below:\n\nDownload CSV\nMetadata (PDF)\n\nVariables include:\n- Taxonomic: Details following manuscript acceptance\n- Methodological: Details following manuscript acceptance\n- Biogeographical: Details following manuscript acceptance\n- Bibliometric: Details following manuscript acceptance"
+  },
+  {
+    "objectID": "citation.html",
+    "href": "citation.html",
+    "title": "Citation",
+    "section": "",
+    "text": "📜 Citation\nIf you use this dataset, please cite:\n\nXYZ., et al. (2025). A database of plant heat tolerances. Journal XYZ. DOI: xxx\n\n\nLicense\nThis dataset is licensed under CC BY 4.0."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Global Plant Heat Tolerance Database",
+    "section": "",
+    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\n\n\n\n📂 Download the dataset\n📜 Citation"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Global Plant Heat Tolerance Database",
+    "section": "",
+    "text": "📂 Download the dataset\n📜 Citation"
+  }
+]

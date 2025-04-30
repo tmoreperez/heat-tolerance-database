@@ -1,0 +1,21 @@
+---
+title: "Dataset"
+format: html
+---
+
+# 📊 Dataset
+
+The full dataset is available for download below:
+
+-   [Download CSV](data/heat_tolerance_database.csv)
+-   [Metadata (PDF)](data/metadata.pdf)
+
+Variables include:
+
+\- `Taxonomic`: Details following manuscript acceptance
+
+\- `Methodological`: Details following manuscript acceptance
+
+\- `Biogeographical`: Details following manuscript acceptance
+
+\- `Bibliometric`: Details following manuscript acceptance

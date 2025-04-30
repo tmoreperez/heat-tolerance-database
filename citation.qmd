@@ -1,0 +1,14 @@
+---
+title: "Citation"
+format: html
+---
+
+# 📜 Citation
+
+If you use this dataset, please cite:
+
+> XYZ., et al. (2025). *A database of plant heat tolerances*. Journal XYZ. DOI: [xxx](https://doi.org/...)
+
+### License
+
+This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
