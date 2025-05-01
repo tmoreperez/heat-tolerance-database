@@ -3,7 +3,7 @@ project:
   output-dir: docs  # For GitHub Pages
 
 website:
-  title: "Heat Tolerance Database"
+  title: "Plant Heat Tolerance Database"
   navbar:
     left:
       - text: Home
