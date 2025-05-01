@@ -16,15 +16,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Global Plant Heat Tolerance Database",
+    "title": "Plant Heat Tolerance Database",
     "section": "",
-    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\n\n\n\n📂 Download the dataset\n📜 Citation"
+    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa. ## 🔗Links:\n\nDownload the dataset\nCitation\n\n\n\nWe welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access."
   },
   {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Global Plant Heat Tolerance Database",
+    "objectID": "index.html#contribute-to-the-heat-tolerance-database",
+    "href": "index.html#contribute-to-the-heat-tolerance-database",
+    "title": "Plant Heat Tolerance Database",
     "section": "",
-    "text": "📂 Download the dataset\n📜 Citation"
+    "text": "We welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access."
   }
 ]
