@@ -4,7 +4,7 @@
     "href": "data.html",
     "title": "Dataset",
     "section": "",
-    "text": "📊 Dataset\nThe full dataset is available for download below:\n\nDownload CSV\nMetadata (PDF)\n\nVariables include:\n- Taxonomic: Details following manuscript acceptance\n- Methodological: Details following manuscript acceptance\n- Biogeographical: Details following manuscript acceptance\n- Bibliometric: Details following manuscript acceptance"
+    "text": "The full dataset is available for download below:\n\nDownload CSV\nMetadata (PDF)\n\nVariables include:\n- Taxonomic: Details following manuscript acceptance\n- Methodological: Details following manuscript acceptance\n- Biogeographical: Details following manuscript acceptance\n- Bibliometric: Details following manuscript acceptance"
   },
   {
     "objectID": "citation.html",
@@ -18,7 +18,14 @@
     "href": "index.html",
     "title": "Plant Heat Tolerance Database",
     "section": "",
-    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa. ## 🔗Links:\n\nDownload the dataset\nCitation\n\n\n\nWe welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access."
+    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\n\n\n\n\nDownload the dataset\nCitation\n\n\n\n\nWe welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Plant Heat Tolerance Database",
+    "section": "",
+    "text": "Download the dataset\nCitation"
   },
   {
     "objectID": "index.html#contribute-to-the-heat-tolerance-database",

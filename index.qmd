@@ -4,19 +4,23 @@ format: html
 ---
 
 # 🌱 Plant Heat Tolerance Database🌡️
+
 This site accompanies the data paper:\
 **XYZ**
 
-The dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.
+The dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\
+
 ## 🔗Links:
 
 -   [Download the dataset](data/heat_tolerance_database.csv)
 -   [Citation](citation.qmd)
 
 ## 📤 Contribute to the Heat Tolerance Database
+
 We welcome data submissions of plant heat tolerances from other scientists. If you'd like to share your data to this public data set, follow the instructions:
 
 ### Step 1: Download the CSV Template
+
 Please use the template below to format your data correctly: [Download CSV Template](https://drive.google.com/file/d/1x9KkK7Rlx6qkzuW9bgFiQXjEZvzaViPG/view?usp=drive_link)
 
 ### Step 2: Submit Your Data
