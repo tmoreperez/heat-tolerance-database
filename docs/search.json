@@ -2,9 +2,9 @@
   {
     "objectID": "data.html",
     "href": "data.html",
-    "title": "Plant Heat Tolerance Database",
+    "title": "Dataset",
     "section": "",
-    "text": "---\ntitle: \"Dataset\"\nformat: html\n---\nThe full dataset is available for download below:\n\nDownload CSV\nMetadata (PDF)\n\nTo load the dataset directly into R:\n``r # Base R data &lt;- read.csv(\"https://raw.githubusercontent.com/tmoreperez/heat-tolerance-database/main/docs/data/heat_tolerance_database.csv\")`\nVariables include:\n- Taxonomic: Details following manuscript acceptance\n- Methodological: Details following manuscript acceptance\n- Biogeographical: Details following manuscript acceptance\n- Bibliometric: Details following manuscript acceptance"
+    "text": "The full dataset is available for download below:\n\nDownload CSV\nMetadata (PDF)\nTo load the dataset directly into R: data &lt;- read.csv(\"https://raw.githubusercontent.com/tmoreperez/heat-tolerance-database/main/docs/data/heat_tolerance_database.csv\")\n\nVariables include:\n- Taxonomic: Details following manuscript acceptance\n- Methodological: Details following manuscript acceptance\n- Biogeographical: Details following manuscript acceptance\n- Bibliometric: Details following manuscript acceptance"
   },
   {
     "objectID": "index.html",
