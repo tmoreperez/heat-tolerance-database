@@ -1,12 +1,18 @@
+``` R
 ---
 title: "Dataset"
 format: html
 ---
+```
 
 The full dataset is available for download below:
 
 -   [Download CSV](data/heat_tolerance_database.csv)
 -   [Metadata (PDF)](data/metadata.pdf)
+
+To load the dataset directly into R:
+
+\`\``r # Base R data <- read.csv("https://raw.githubusercontent.com/tmoreperez/heat-tolerance-database/main/docs/data/heat_tolerance_database.csv")`\`
 
 Variables include:
 
