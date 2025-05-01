@@ -10,8 +10,6 @@ website:
         href: index.qmd
       - text: Data
         href: data.qmd
-      - text: Citation
-        href: citation.qmd
 
 format:
   html:

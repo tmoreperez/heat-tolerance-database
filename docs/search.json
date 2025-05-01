@@ -7,25 +7,18 @@
     "text": "The full dataset is available for download below:\n\nDownload CSV\nMetadata (PDF)\n\nVariables include:\n- Taxonomic: Details following manuscript acceptance\n- Methodological: Details following manuscript acceptance\n- Biogeographical: Details following manuscript acceptance\n- Bibliometric: Details following manuscript acceptance"
   },
   {
-    "objectID": "citation.html",
-    "href": "citation.html",
-    "title": "Citation",
-    "section": "",
-    "text": "📜 Citation\nIf you use this dataset, please cite:\n\nXYZ., et al. (2025). A database of plant heat tolerances. Journal XYZ. DOI: xxx\n\n\nLicense\nThis dataset is licensed under CC BY 4.0."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Plant Heat Tolerance Database",
     "section": "",
-    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\n\n\n\n\nDownload the dataset\nCitation\n\n\n\n\nWe welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access."
+    "text": "This site accompanies the data paper:\nXYZ\nThe dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\n\n\n\n\nDownload the dataset\nLink to the paper\n\n\n\n\nWe welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access.\n\n\n\n\nIf you use this dataset, please cite:\n\nXYZ., et al. (2025). A database of plant heat tolerances. Journal XYZ. DOI: xxx\n\n\n\n\nThis dataset is a synthesis of data extracted from published academic literature. All trait values are attributed to their original sources as documented in the database.\nThis compilation is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)."
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
     "title": "Plant Heat Tolerance Database",
     "section": "",
-    "text": "Download the dataset\nCitation"
+    "text": "Download the dataset\nLink to the paper"
   },
   {
     "objectID": "index.html#contribute-to-the-heat-tolerance-database",
@@ -33,5 +26,19 @@
     "title": "Plant Heat Tolerance Database",
     "section": "",
     "text": "We welcome data submissions of plant heat tolerances from other scientists. If you’d like to share your data to this public data set, follow the instructions:\n\n\nPlease use the template below to format your data correctly: Download CSV Template\n\n\n\nOnce your CSV is ready, please upload it via this secure Google Form link.\nSubmissions will be periodically reviewed and merged into the main database for all to access."
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "Plant Heat Tolerance Database",
+    "section": "",
+    "text": "If you use this dataset, please cite:\n\nXYZ., et al. (2025). A database of plant heat tolerances. Journal XYZ. DOI: xxx"
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Plant Heat Tolerance Database",
+    "section": "",
+    "text": "This dataset is a synthesis of data extracted from published academic literature. All trait values are attributed to their original sources as documented in the database.\nThis compilation is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)."
   }
 ]
