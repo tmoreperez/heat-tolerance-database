@@ -8,8 +8,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Data
-        href: data.qmd
+      #- text: Data
+      #  href: data.qmd
 
 format:
   html:

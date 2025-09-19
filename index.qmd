@@ -6,14 +6,14 @@ format: html
 # 🌱 Plant Heat Tolerance Database🌡️
 
 This site accompanies the data paper:\
-**XYZ**
+**A database of plant heat tolerances and methodological matters**
 
 The dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant taxa.\
 
 ## 🔗Links:
 
--   [Download the dataset](data/heat_tolerance_database.csv)
--   [Link to the paper](NA)
+-   [Download the dataset](http://datadryad.org/share/LINK_NOT_FOR_PUBLICATION/k7Zb6yQwimY9E84FZQ4NILE1j7SJK8vraLRsVG1zyn8)
+-   [Link to the bioRxiv paper](https://www.biorxiv.org/content/10.1101/2025.09.14.676187v1)
 
 ## 📤 Contribute to the Heat Tolerance Database
 
@@ -27,13 +27,13 @@ Please use the template below to format your data correctly: [Download CSV Templ
 
 Once your CSV is ready, please upload it via [this secure Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSeO2FrMcVU3YP8t2_Fx0lt6BJ-Qx0gRl0D3lZaumzlpD9Tvmw/viewform?usp=header).
 
-Submissions will be periodically reviewed and merged into the main database for all to access.
+Submissions will be periodically reviewed and merged into the main database for all to access. A link to the updated database will be provided here once updates are made. 
 
 ## 📜Citation
 
 If you use this dataset, please cite:
 
-> XYZ., et al. (2025). *A database of plant heat tolerances*. Journal XYZ. DOI: [xxx](https://doi.org/...)
+> Timothy M Perez, Alyssa Kullberg, Evan Rehm, Kenneth Feeley. 2025. *A database of plant heat tolerances and methodological matters*. bioRxiv 2025.09.14.676187. DOI: [https://doi.org/10.1101/2025.09.14.676187](https://doi.org/10.1101/2025.09.14.676187)
 
 ## License
 
