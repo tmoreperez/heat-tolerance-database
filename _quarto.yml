@@ -4,12 +4,7 @@ project:
 
 website:
   title: "Plant Heat Tolerance Database"
-  navbar:
-    left:
-      - text: Home
-        href: index.qmd
-      #- text: Data
-      #  href: data.qmd
+  navbar: false
 
 format:
   html:

@@ -12,8 +12,9 @@ The dataset includes 3,000+ records of heat tolerance traits across 1,700+ plant
 
 ## 🔗Links:
 
--   [Download the dataset](http://datadryad.org/share/LINK_NOT_FOR_PUBLICATION/k7Zb6yQwimY9E84FZQ4NILE1j7SJK8vraLRsVG1zyn8)
+-   [Download the dataset](https://doi.org/10.5061/dryad.cjsxksnj2)
 -   [Link to the bioRxiv paper](https://www.biorxiv.org/content/10.1101/2025.09.14.676187v1)
+-   To load the dataset directly into R: `data <- read.csv("https://raw.githubusercontent.com/tmoreperez/heat-tolerance-database/main/docs/data/heat_tolerance_database_02May2025.csv")`
 
 ## 📤 Contribute to the Heat Tolerance Database
 
