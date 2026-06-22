@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs  # For GitHub Pages
+  resources:
+    - data/Plant_Heat_Tolerance_Database_06May2026.csv
 
 website:
   title: "Plant Heat Tolerance Database"
